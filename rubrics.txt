@@ -1,5 +1,5 @@
 RUBRICS
-The delivered source code can be installed and executed successfully by following the provided README instructions.
+The delivered source code is installed and executed successfully by following the provided README instructions.
 The repository includes all source code files required to run the application.
 The repository includes a README containing installation, execution, and project structure information.
 The Home page contains a hero section with a logo, tagline, and Start Playing button.
@@ -24,7 +24,7 @@ The About / For Parents page is present and includes information about the platf
 The website renders correctly on desktop devices.
 The website renders correctly on tablet devices.
 The website renders correctly on mobile devices.
-All interactive elements have a minimum tap target of 44×44px. Navigation is achievable without hover-only interactions.
+All interactive elements have massive, high-tactility tap blocks. Navigation is achievable without hover-only interactions.
 The application follows the specified color palette and child friendly visual design requirements.
 The application uses consistent typography, spacing, and component styling.
 The application includes smooth animations and transitions without negatively affecting usability.

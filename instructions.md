@@ -75,8 +75,8 @@ The interface must strictly employ the following hexadecimal color codes to guar
 
 
 ### Typography & Component Layout Rules
-* **Headings & Brand Marks:** Formatted in bold, rounded, playful sans-serif typography (Baloo 2 or Fredoka) with a minimum size of 28px on introductory screens.
-* **Body Content:** Rendered in highly legible sans-serif fonts (Nunito or Poppins) with a strict minimum base size of 16px to support developing eyes.
+* Poppins (Bold for headings, Regular for body)
+* **Body Content:** Rendered in highly legible fonts (Poppins) with a strict minimum base size of 16px to support developing eyes.
 * **Interactive Controls:** Massive, high-tactility tap blocks with explicit bold typography, configured for large tablet touch-targets and easy desktop pointer interactions.
 
 ---
