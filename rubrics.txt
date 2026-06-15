@@ -1,0 +1,33 @@
+RUBRICS
+The delivered source code can be installed and executed successfully by following the provided README instructions.
+The repository includes all source code files required to run the application.
+The repository includes a README containing installation, execution, and project structure information.
+The Home page contains a hero section with a logo, tagline, and Start Playing button.
+The Home page contains navigation cards for Maths, English, Science, and Logic.
+The Home page contains a Featured Games section and a How It Works section.
+The Home page contains a footer with About, Contact, and For Parents links.
+The Games Library page displays all available games using a card layout.
+Each game card displays a game name, subject, image or icon, and a Play button.
+The Games Library page provides subject filtering functionality.
+The Games Library page provides age group filtering functionality.
+The Games Library page provides search functionality for game names.
+The Gameplay page displays the current game name, score, and timer or lives.
+The Gameplay page provides Pause and Restart controls that function correctly.
+The Gameplay page displays an end game overlay containing the final score, stars earned, and replay options.
+A playable Speedy Maths game is implemented with arithmetic questions, score tracking, timing mechanics, and increasing difficulty.
+A playable Word Builder game is implemented with missing letter challenges, word completion challenges, and picture or image matching.
+A playable Sort It Out (Science) game is implemented with drag-and-drop sorting into at least two of the specified category pairs (Living vs Non-Living, Animals vs Plants, or Food vs Non-Food), with correct category validation.
+A playable Memory Match game is implemented with card matching mechanics, score tracking, and increasing difficulty.
+The Progress Dashboard displays accumulated points, achievement badges, and completed game history.
+The application stores and restores scores, badges, and completed games using browser LocalStorage.
+The About / For Parents page is present and includes information about the platform's educational purpose, child-safe environment, and benefits for parents.
+The website renders correctly on desktop devices.
+The website renders correctly on tablet devices.
+The website renders correctly on mobile devices.
+All interactive elements have a minimum tap target of 44×44px. Navigation is achievable without hover-only interactions.
+The application follows the specified color palette and child friendly visual design requirements.
+The application uses consistent typography, spacing, and component styling.
+The application includes smooth animations and transitions without negatively affecting usability.
+The application does not produce console errors, broken links, or application crashes during normal usage.
+The codebase uses a logical folder structure, meaningful naming conventions, and maintainable organization.
+The delivered project does not implement functionality that is outside the defined project scope, including authentication, databases, backend services, multiplayer functionality, payment integration, or native mobile applications.

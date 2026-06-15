@@ -1,0 +1,18 @@
+﻿Scope Of Work:
+
+Develop a fully responsive educational gaming website called BrightPlay for children between six and twelve years of age.
+The project includes:
+1. Home page with a hero section, subject cards, featured games, and footer.
+2. Games Library page with game cards, subject filters, age group filters, and search functionality.
+3. Gameplay pages with score tracking, timer or lives, pause and restart controls, and end game screens.
+4. Progress and Rewards Dashboard with points, badges, and completed game history.
+5. About and For Parents page with information about the platform and its educational purpose.
+6. Four fully playable educational games:
+a. Speedy Maths
+b. Word Builder
+c. Sort It Out
+d. Memory Match
+7. Browser LocalStorage integration for saving scores, rewards, and progress.
+8. Responsive design for desktop, tablet, and mobile devices.
+9. Clean, organized source code and a README file with setup instructions.
+The project does not include authentication, backend services, databases, payment functionality, multiplayer features, or native mobile applications.
